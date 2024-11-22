@@ -1,0 +1,8 @@
+{
+  "appId": "com.apurv.hellopwatest",
+  "appName": "HelloPWA",
+  "webDir": "www",
+  "server": {
+    "url": "https://apurvsinghal.github.io/hellopwa.github.io"
+  }
+}
